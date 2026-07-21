@@ -11,7 +11,13 @@ I am a Computational Materials Engineer and Machine Learning Researcher working 
 
 ---
 
-## 📊 Programming Languages & Core Stack
+## 📊 Programming Languages & 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
 <!-- REPO LANGUAGES METRICS -->
 <p align="center">
