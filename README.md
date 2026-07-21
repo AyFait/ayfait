@@ -15,8 +15,8 @@ I am a Computational Materials Engineer and Machine Learning Researcher working 
 
 <!-- REPO LANGUAGES METRICS -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayfait&layout=compact&theme=dracula&langs_count=8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayfait&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyFait&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyFait&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </p>
 <!-- END REPO LANGUAGES METRICS -->
 
@@ -27,5 +27,8 @@ I am a Computational Materials Engineer and Machine Learning Researcher working 
 - **Languages:** Python (PyTorch, Geometric, Pandas, NumPy), MATLAB, C++.
 - **Materials Science & Engineering:** Computational Materials Engineering, Physical Metallurgy, Alloy Design, Sustainable Manufacturing.
 
-📬 **How to reach me:** ![linkedin.com/in/ayfait](linkedin.com/in/ayfait)
-🌐 ![**Portfolio**](ayfait.github.io)
+---
+
+### 📬 Connect With Me
+- 💼 **LinkedIn:** [linkedin.com/in/ayfait](https://linkedin.com)
+- 🌐 **Portfolio:** [ayfait.github.io](https://github.io)
