@@ -28,4 +28,4 @@ I am a Computational Materials Engineer and Machine Learning Researcher working 
 - **Materials Science & Engineering:** Computational Materials Engineering, Physical Metallurgy, Alloy Design, Sustainable Manufacturing.
 
 📬 **How to reach me:** ![linkedin.com/in/ayfait](linkedin.com/in/ayfait)
-🌐 **Portfolio:** ![ayfait.github.io](ayfait.github.io)
+🌐 **Portfolio:** (ayfait.github.io)
