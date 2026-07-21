@@ -14,7 +14,10 @@ I am a Computational Materials Engineer and Machine Learning Researcher working 
 ## 📊 Programming Languages & Core Stack
 
 <!-- REPO LANGUAGES METRICS -->
-![Top Langs](https://vercel.app)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayfait&layout=compact&theme=dracula&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayfait&show_icons=true&theme=dracula&hide_border=true" />
+</p>
 <!-- END REPO LANGUAGES METRICS -->
 
 ---
@@ -24,5 +27,5 @@ I am a Computational Materials Engineer and Machine Learning Researcher working 
 - **Languages:** Python (PyTorch, Geometric, Pandas, NumPy), MATLAB, C++.
 - **Materials Science & Engineering:** Computational Materials Engineering, Physical Metallurgy, Alloy Design, Sustainable Manufacturing.
 
-📬 **How to reach me:** linkedin.com/in/ayfait
-🌐 **Portfolio:** ayfait.github.io
+📬 **How to reach me:** ![linkedin.com/in/ayfait](linkedin.com/in/ayfait)
+🌐 **Portfolio:** ![ayfait.github.io](ayfait.github.io)
