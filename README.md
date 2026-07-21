@@ -11,7 +11,7 @@ I am a Computational Materials Engineer and Machine Learning Researcher working 
 
 ---
 
-## 📊 Programming Languages & 🛠️ Tech Stack
+## 📊 Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
