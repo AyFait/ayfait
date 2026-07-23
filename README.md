@@ -36,5 +36,5 @@ I am a Computational Materials Engineer and Machine Learning Researcher working 
 ---
 
 ### 📬 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/ayfait](https://linkedin.com)
-- 🌐 **Portfolio:** [ayfait.github.io](https://github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/ayfait](https://linkedin.com/in/ayfait)
+- 🌐 **Portfolio:** [ayfait.github.io](https://ayfait.github.io)
